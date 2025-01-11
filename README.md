@@ -1,6 +1,9 @@
 # Deep Learning for Classifying Ischemic Stroke Blood Clots
 
-<img src="files/graphs.png" width="600" alt="Preprocessing Pipeline">
+<div align="center">
+    <img width="600" alt="Machine Learning Pipeline" src="files/graphs.png">
+</div>
+
 
 This repository contains the implementation of deep learning models for classifying the origins of ischemic stroke blood clots using histopathological images. The project focuses on distinguishing between cardioembolic (CE) and large artery atherosclerosis (LAA) origins using advanced architectures including PoolFormerV3 and Compact Convolutional Transformers (CCT).
 
