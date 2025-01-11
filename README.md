@@ -139,7 +139,7 @@ If you use this code in your research, please cite:
 ```bibtex
 @article{eid2024classifying,
   title={Classifying Ischemic Stroke Blood Clot Origin: A Comprehensive Study with Ensemble Models},
-  author={Eid, Mohamad and Maged, Ali and Mesilhy, Mohamed and Ahmed, Omar},
+  author={Abomandour, Mohamad and Maged, Ali, and Mosilhy, Mohamed and Ahmed, Omar},
   year={2025}
 }
 ```
@@ -149,5 +149,30 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 - Mayo Clinic for the STRIP AI dataset
+
+## Contributors <a name = "Contributors"></a>
+<table>
+  <tr>
+    <td align="center">
+    <a href="https://github.com/MohamedMandour10" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/115044826?v=4" width="150px;" alt="Mohamed Elsayed Eid"/>
+    <br />
+    <sub><b>Mohamed Elsayed Eid</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/mohamedmosilhy" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/93820559?v=4" width="150px;" alt="Mohamed Mosilhy"/>
+    <br />
+    <sub><b>Mohamed Mosilhy</b></sub></a>
+    </td>
+    <td align="center">
+    <a href="https://github.com/alimaged10" target="_black">
+    <img src="https://avatars.githubusercontent.com/u/115377600?v=4" width="150px;" alt="Ali Maged"/>
+    <br />
+    <sub><b>Ali Maged</b></sub></a>
+    </td>
+      </tr>
+
+
 
 
