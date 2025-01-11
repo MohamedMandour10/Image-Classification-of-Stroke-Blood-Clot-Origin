@@ -157,7 +157,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     <a href="https://github.com/MohamedMandour10" target="_black">
     <img src="https://avatars.githubusercontent.com/u/115044826?v=4" width="150px;" alt="Mohamed Elsayed Eid"/>
     <br />
-    <sub><b>Mohamed Elsayed Eid</b></sub></a>
+    <sub><b>Mohamed Abomandour</b></sub></a>
     </td>
     <td align="center">
     <a href="https://github.com/mohamedmosilhy" target="_black">
