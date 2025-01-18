@@ -119,7 +119,7 @@ scikit-learn
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stroke-clot-classification.git
+git clone https://github.com/MohamedMandour10/Image-Classification-of-Stroke-Blood-Clot-Origin.git
 ```
 
 2. Install dependencies:
@@ -129,15 +129,11 @@ pip install -r requirements.txt
 
 3. Prepare your dataset following the preprocessing pipeline in `src/preprocessing/`
 
-4. Train the model:
-```bash
-python src/trainer/trainer.py
-```
 
 ## Citation
 If you use this code in your research, please cite:
 ```bibtex
-@article{eid2024classifying,
+@article{mandour2024classifying,
   title={Classifying Ischemic Stroke Blood Clot Origin: A Comprehensive Study with Ensemble Models},
   author={Abomandour, Mohamad and Maged, Ali, and Mosilhy, Mohamed and Ahmed, Omar},
   year={2025}
@@ -169,7 +165,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
     <a href="https://github.com/alimaged10" target="_black">
     <img src="https://avatars.githubusercontent.com/u/115377600?v=4" width="150px;" alt="Ali Maged"/>
     <br />
-    <sub><b>Ali Maged</b></sub></a>
+    <sub><b>Aly Maged</b></sub></a>
     </td>
       </tr>
 
